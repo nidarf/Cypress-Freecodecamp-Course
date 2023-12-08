@@ -32,7 +32,7 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Fourth, open new terminal and open cypress
+Fourth, open new terminal. Then, open cypress using this
 
 ```bash
 npx cypress open
