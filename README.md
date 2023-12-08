@@ -14,7 +14,7 @@ Go to Cypress-Freecodecamp-Course folder
 cd Cypress-Freecodecamp-Course
 ```
 
-Second, install depedencies:
+Second, install dependencies:
 
 ```bash
 npm install
@@ -32,7 +32,7 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Fourth, open new terminal. Then, open cypress using this
+Fourth, open new terminal. Then, open cypress using this command:
 
 ```bash
 npx cypress open
