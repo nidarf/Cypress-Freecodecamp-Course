@@ -1,3 +1,7 @@
+This is Cypress QA automation practices. I did testing on [applications created by Ryan Solomon](https://github.com/coderyansolomon/cypress-course.git).
+
+## Introduction
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
